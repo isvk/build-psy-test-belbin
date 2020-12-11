@@ -396,12 +396,13 @@
                         var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "GET",
                             t = arguments.length > 1 ? arguments[1] : void 0,
                             n = arguments.length > 2 ? arguments[2] : void 0;
-                        return fetch("/api" + t, { method: e, body: "GET" !== e ? JSON.stringify(n) : void 0 }).then(
-                            function (e) {
-                                if (e.ok) return e.json();
-                                throw e;
-                            }
-                        );
+                        return fetch("/build-psy-test-belbin/api" + t, {
+                            method: e,
+                            body: "GET" !== e ? JSON.stringify(n) : void 0,
+                        }).then(function (e) {
+                            if (e.ok) return e.json();
+                            throw e;
+                        });
                     });
             }),
                 oe.service(
@@ -1186,4 +1187,4 @@
     },
     [[96, 1, 2]],
 ]);
-//# sourceMappingURL=main.3e016ada.chunk.js.map
+//# sourceMappingURL=main.72c0c3b2.chunk.js.map
