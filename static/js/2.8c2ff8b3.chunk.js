@@ -1,4 +1,4 @@
-/*! For license information please see 2.84d146fd.chunk.js.LICENSE.txt */
+/*! For license information please see 2.8c2ff8b3.chunk.js.LICENSE.txt */
 (this["webpackJsonppsy-test-belbin"] = this["webpackJsonppsy-test-belbin"] || []).push([
     [2],
     [
@@ -1224,7 +1224,7 @@
                         ("undefined" != typeof e &&
                             (Object({
                                 NODE_ENV: "production",
-                                PUBLIC_URL: "",
+                                PUBLIC_URL: "/build-psy-test-belbin",
                                 WDS_SOCKET_HOST: void 0,
                                 WDS_SOCKET_PATH: void 0,
                                 WDS_SOCKET_PORT: void 0,
@@ -1232,7 +1232,7 @@
                             }).REACT_APP_SC_ATTR ||
                                 Object({
                                     NODE_ENV: "production",
-                                    PUBLIC_URL: "",
+                                    PUBLIC_URL: "/build-psy-test-belbin",
                                     WDS_SOCKET_HOST: void 0,
                                     WDS_SOCKET_PATH: void 0,
                                     WDS_SOCKET_PORT: void 0,
@@ -1247,7 +1247,7 @@
                               void 0 !==
                                   Object({
                                       NODE_ENV: "production",
-                                      PUBLIC_URL: "",
+                                      PUBLIC_URL: "/build-psy-test-belbin",
                                       WDS_SOCKET_HOST: void 0,
                                       WDS_SOCKET_PATH: void 0,
                                       WDS_SOCKET_PORT: void 0,
@@ -1256,7 +1256,7 @@
                               "" !==
                                   Object({
                                       NODE_ENV: "production",
-                                      PUBLIC_URL: "",
+                                      PUBLIC_URL: "/build-psy-test-belbin",
                                       WDS_SOCKET_HOST: void 0,
                                       WDS_SOCKET_PATH: void 0,
                                       WDS_SOCKET_PORT: void 0,
@@ -1265,7 +1265,7 @@
                             ? "false" !==
                                   Object({
                                       NODE_ENV: "production",
-                                      PUBLIC_URL: "",
+                                      PUBLIC_URL: "/build-psy-test-belbin",
                                       WDS_SOCKET_HOST: void 0,
                                       WDS_SOCKET_PATH: void 0,
                                       WDS_SOCKET_PORT: void 0,
@@ -1273,7 +1273,7 @@
                                   }).REACT_APP_SC_DISABLE_SPEEDY &&
                               Object({
                                   NODE_ENV: "production",
-                                  PUBLIC_URL: "",
+                                  PUBLIC_URL: "/build-psy-test-belbin",
                                   WDS_SOCKET_HOST: void 0,
                                   WDS_SOCKET_PATH: void 0,
                                   WDS_SOCKET_PORT: void 0,
@@ -1283,7 +1283,7 @@
                               void 0 !==
                                   Object({
                                       NODE_ENV: "production",
-                                      PUBLIC_URL: "",
+                                      PUBLIC_URL: "/build-psy-test-belbin",
                                       WDS_SOCKET_HOST: void 0,
                                       WDS_SOCKET_PATH: void 0,
                                       WDS_SOCKET_PORT: void 0,
@@ -1292,7 +1292,7 @@
                               "" !==
                                   Object({
                                       NODE_ENV: "production",
-                                      PUBLIC_URL: "",
+                                      PUBLIC_URL: "/build-psy-test-belbin",
                                       WDS_SOCKET_HOST: void 0,
                                       WDS_SOCKET_PATH: void 0,
                                       WDS_SOCKET_PORT: void 0,
@@ -1301,7 +1301,7 @@
                               "false" !==
                                   Object({
                                       NODE_ENV: "production",
-                                      PUBLIC_URL: "",
+                                      PUBLIC_URL: "/build-psy-test-belbin",
                                       WDS_SOCKET_HOST: void 0,
                                       WDS_SOCKET_PATH: void 0,
                                       WDS_SOCKET_PORT: void 0,
@@ -1309,7 +1309,7 @@
                                   }).SC_DISABLE_SPEEDY &&
                               Object({
                                   NODE_ENV: "production",
-                                  PUBLIC_URL: "",
+                                  PUBLIC_URL: "/build-psy-test-belbin",
                                   WDS_SOCKET_HOST: void 0,
                                   WDS_SOCKET_PATH: void 0,
                                   WDS_SOCKET_PORT: void 0,
@@ -24024,4 +24024,4 @@
         },
     ],
 ]);
-//# sourceMappingURL=2.84d146fd.chunk.js.map
+//# sourceMappingURL=2.8c2ff8b3.chunk.js.map

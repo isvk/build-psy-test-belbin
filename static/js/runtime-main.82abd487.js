@@ -68,7 +68,7 @@
         (l.o = function (e, t) {
             return Object.prototype.hasOwnProperty.call(e, t);
         }),
-        (l.p = "/");
+        (l.p = "/build-psy-test-belbin/");
     var i = (this["webpackJsonppsy-test-belbin"] = this["webpackJsonppsy-test-belbin"] || []),
         p = i.push.bind(i);
     (i.push = t), (i = i.slice());
@@ -76,4 +76,4 @@
     var a = p;
     r();
 })([]);
-//# sourceMappingURL=runtime-main.bbaa47c5.js.map
+//# sourceMappingURL=runtime-main.82abd487.js.map
